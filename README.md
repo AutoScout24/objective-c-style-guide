@@ -1,6 +1,6 @@
 # AutoScout24 Objective-C Style Guide
 
-This style guide outlines the coding conventions of the iOS team at AutoScout25.
+This style guide outlines the coding conventions of the iOS team at AutoScout24.
 
 It's based on the [NYTimes objective-c-style-guide](https://github.com/NYTimes/objective-c-style-guide)
 
